@@ -1,5 +1,7 @@
 Data Scientist with 8+ years of experience, with special interests in time-series, forecasting, deep learning and optimization.
 
+LinkedIn profile: www.linkedin.com/in/vbezzan
+
 - 👋 Hi, I’m @vitorbezzan
 - 👀 I’m interested in time-series, optimization, heavy industries (Oil & Gas, Steel, Energy, Agri and Chemicals)
 - 🌱 I’m currently learning reinforcement-learning and analog electronics
