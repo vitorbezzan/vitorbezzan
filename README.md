@@ -1,4 +1,4 @@
-Data Scientist with 8+ years of experience, with special interests in time-series, forecasting, deep learning and optimization.
+Data Scientist with 10+ years of experience, with special interests in time-series, forecasting, deep learning and optimization.
 
 LinkedIn profile: www.linkedin.com/in/vbezzan
 
